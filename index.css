@@ -1,0 +1,16 @@
+.display{
+    display: flex;
+    flex-direction: column;
+}
+
+label{
+    display: block;
+}
+
+/* label input[type=checkbox]: checked + span{
+    text-decoration : line-through
+} */
+
+ul{
+    list-style: circle;
+}
